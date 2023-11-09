@@ -1,32 +1,39 @@
-,,38.49.128.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.129.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.130.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.131.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.132.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.133.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.134.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.135.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.136.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.137.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.138.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.139.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.140.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.141.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.142.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.143.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.144.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.145.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.146.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.147.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.148.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.149.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.150.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.151.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.152.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.153.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.154.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.155.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.156.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.157.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.158.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
-,,38.49.159.0/24,",MX,MX-QRO,Querétaro-Arboledas,"
+# IENTC Geofeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 2023-11-09
+#
+# This data feed provides approximate geo locations for a subset of
+# IENTC IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups 
+38.49.128.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.129.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.130.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.131.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.132.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.133.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.134.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.135.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.136.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.137.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.138.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.139.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.140.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.141.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.142.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.143.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.144.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.145.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.146.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.147.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.148.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.149.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.150.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.151.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.152.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.153.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.154.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.155.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.156.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.157.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.158.0/24,",MX,MX-QRO,Querétaro-Arboledas,
+38.49.159.0/24,",MX,MX-QRO,Querétaro-Arboledas,
